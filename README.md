@@ -16,7 +16,7 @@ In most cases the project repository contains a more accurate description of wha
 
 
 ---
-### *My AI projects*
+### **My AI projects**
 ---
 <!-- Projects in AI table markdown-->
 | Title | Description | Link |
@@ -25,8 +25,10 @@ In most cases the project repository contains a more accurate description of wha
 |<img src="img/tg-logo.webp" width="30" height="30"><br>**TG GPT** | Download a *GPT* based model, finetune on your own TG (group)chat data, and run the bot! | [tgbot_fin_gpt](https://github.com/ilmari99/TGBOT_FIN_GPT)
 |**Oparch** | An old project which attempts to optimize the architecture of a neural network. | [oparch](https://github.com/ilmari99/oparch)
 
+
+<br></br>
 ---
-### *My other projects*
+### **My other projects**
 ---
 
 <!-- Other own projects -->
@@ -36,9 +38,9 @@ In most cases the project repository contains a more accurate description of wha
 | **Data analysis** | A paid data analysis about housing in the city of Imatra. Contains only part of the results, and in Finnish. | [imatra-public-results](https://github.com/ilmari99/imatra-public-results)
 |**Google Foobar** | My solutions to a 5-level programming challenge, which had *very* interesting problems. | [Google-Foobar](https://github.com/ilmari99/google-foobar)
 
-
+<br></br>
 ---
-### *Projects for studies*
+### **Projects for studies**
 ---
 <!-- Projects done for studies> -->
 | Title | Description | Link |
@@ -50,6 +52,11 @@ In most cases the project repository contains a more accurate description of wha
 | **Systems programming** | Projects for a course on OS's and systems programming. | [Projects and exercises](https://github.com/ilmari99/Sys-prog-ex)
 | **Data analysis** | Data analysis about wine quality | [wine-quality](https://github.com/ilmari99/Wine-analysis)
 
+
+<br></br>
+**Thank you for visiting my profile!**
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/ilmariv/)!
 
 
 
