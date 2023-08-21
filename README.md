@@ -22,7 +22,7 @@ In most cases the project repository contains a more accurate description of wha
 | --- | --- | --- |
 |<img src= "img/jack-of-hearts.png" width ="40" height="60"><br>**Moska** | Engine and a super-human AI player for a card game called Moska. | [Thesis](https://urn.fi/URN:NBN:fi-fe2023051644576), [MoskaEngine](https://github.com/ilmari99/MoskaEngine)
 |<img src="img/tg-logo.webp" width="30" height="30"><br>**TG GPT** | Download a *GPT* based model, finetune on your own TG (group)chat data, and run the bot! | [tgbot_fin_gpt](https://github.com/ilmari99/TGBOT_FIN_GPT)
-|<img src="img/norppakivella.jpg" width="30" height="30"><br>**Seal identification**| A Siamese Neural Network for identifying ringed seals. | [ringed-seal-identification](https://github.com/ilmari99/ringed-seal-identification)
+|<img src="img/norppakivella.jpg" width="80" height="50"><br>**Seal identification**| A Siamese Neural Network for identifying ringed seals. | [ringed-seal-identification](https://github.com/ilmari99/ringed-seal-identification)
 |**Oparch** | An old project which attempts to optimize the architecture of a neural network. | [oparch](https://github.com/ilmari99/oparch)
 
 
