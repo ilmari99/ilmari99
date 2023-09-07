@@ -7,8 +7,8 @@ Above are some of the tools I can use, *roughly in order of proficiency*.
 ## Lines of code in my Github (11.07.2023)
 | language | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| Python | 190 | 16,233 | 5,452 | 2,432 | 24,117 |
-| MATLAB | 34 | 2,952 | 750 | 721 | 4,423 |
+| Python | 190 | 16,233 | 5,452 | 2,432 | **24,117** |
+| MATLAB | 34 | 2,952 | 750 | 721 | **4,423** |
 | C | 28 | 2,412 | 781 | 465 | 3,658 |
 | Java | 15 | 1,454 | 122 | 341 | 1,917 |
 | Markdown | 24 | 999 | 133 | 529 | 1,661 |
