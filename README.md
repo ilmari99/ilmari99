@@ -4,6 +4,20 @@ I'm a 4th-year data science student from Finland, and I'm interested in solving 
 
 Above are some of the tools I can use, *roughly in order of proficiency*.
 
+## Lines of code in my Github (11.07.2023)
+| language | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| Python | 190 | 16,233 | 5,452 | 2,432 | 24,117 |
+| MATLAB | 34 | 2,952 | 750 | 721 | 4,423 |
+| C | 28 | 2,412 | 781 | 465 | 3,658 |
+| Java | 15 | 1,454 | 122 | 341 | 1,917 |
+| Markdown | 24 | 999 | 133 | 529 | 1,661 |
+| C++ | 11 | 351 | 371 | 187 | 909 |
+| HTML | 7 | 290 | 1 | 80 | 371 |
+| SQL | 2 | 256 | 0 | 38 | 294 |
+| Shell Script | 6 | 131 | 13 | 12 | 156 |
+| Assembly | 2 | 75 | 0 | 2 | 77 |
+
 <br></br>
 ## My projects
 Here I've listed some of my projects, that are on Github. They classify into three categories:
