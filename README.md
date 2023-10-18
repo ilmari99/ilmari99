@@ -6,6 +6,8 @@ My GitHub consists mostly of hobby projects, as well as projects done for my stu
 
 Above are some of the tools I can use, *roughly in order of proficiency*.
 
+You can also find me on [LinkedIn](https://www.linkedin.com/in/ilmariv/)!
+
 ## Lines of code in my Github (11.07.2023)
 | language | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
@@ -71,8 +73,6 @@ In most cases the project repository contains a more accurate description of wha
 
 <br></br>
 **Thank you for visiting my profile!**
-
-You can also find me on [LinkedIn](https://www.linkedin.com/in/ilmariv/)!
 
 
 
