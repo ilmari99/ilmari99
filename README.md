@@ -10,8 +10,8 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/ilmariv/)!
 ### Lines of code in my GitHub repositories (updated on 01 December 2023)
 | language | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| Python | 277 | 23,352 | 7,413 | 3,855 | 34,620 |
-| Markdown | 207 | 14,913 | 271 | 6,056 | 21,240 |
+| Python | 277 | 23,356 | 7,414 | 3,857 | 34,627 |
+| Markdown | 207 | 14,912 | 271 | 6,056 | 21,239 |
 | Java | 72 | 8,854 | 566 | 1,799 | 11,219 |
 | MATLAB | 41 | 3,441 | 994 | 968 | 5,403 |
 | C | 29 | 2,506 | 790 | 485 | 3,781 |
