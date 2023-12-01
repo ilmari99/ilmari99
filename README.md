@@ -8,8 +8,8 @@ Above are some of the tools I can use, *roughly in order of proficiency*.
 You can also find me on [LinkedIn](https://www.linkedin.com/in/ilmariv/)!
 
 ### Lines of code in my GitHub repositories (updated on 01 December 2023)
-| language | files | code | comment | blank |** total **|
-| :--- | ---: | ---: | ---: | ---: |** ---: **|
+| language | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
 | Python | 277 | 23,356 | 7,414 | 3,857 |** 34,627 **|
 | Markdown | 207 | 14,912 | 271 | 6,056 |** 21,239 **|
 | Java | 72 | 8,854 | 566 | 1,799 |** 11,219 **|
