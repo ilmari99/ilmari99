@@ -8,22 +8,22 @@ Above are some of the tools I can use, *roughly in order of proficiency*.
 You can also find me on [LinkedIn](https://www.linkedin.com/in/ilmariv/)!
 
 ### Lines of code in my GitHub repositories (updated on 01 December 2023)
-| language | files | code | comment | blank | total |
-| :--- | ---: | ---: | ---: | ---: | ---: |
-| Python | 277 | 23,356 | 7,414 | 3,857 | 34,627 |
-| Markdown | 207 | 14,912 | 271 | 6,056 | 21,239 |
-| Java | 72 | 8,854 | 566 | 1,799 | 11,219 |
-| MATLAB | 41 | 3,441 | 994 | 968 | 5,403 |
-| C | 29 | 2,506 | 790 | 485 | 3,781 |
-| JavaScript | 14 | 2,369 | 341 | 451 | 3,161 |
-| SQL | 5 | 2,078 | 5 | 54 | 2,137 |
-| HTML | 14 | 621 | 43 | 131 | 795 |
-| C++ | 11 | 351 | 371 | 187 | 909 |
-| Shell Script | 9 | 223 | 54 | 64 | 341 |
-| Batch | 5 | 193 | 60 | 102 | 355 |
-| LaTeX | 3 | 140 | 0 | 44 | 184 |
-| Assembly | 2 | 75 | 0 | 2 | 77 |
-| Makefile | 6 | 61 | 1 | 26 | 88 |
+| language | files | code | comment | blank |** total **|
+| :--- | ---: | ---: | ---: | ---: |** ---: **|
+| Python | 277 | 23,356 | 7,414 | 3,857 |** 34,627 **|
+| Markdown | 207 | 14,912 | 271 | 6,056 |** 21,239 **|
+| Java | 72 | 8,854 | 566 | 1,799 |** 11,219 **|
+| MATLAB | 41 | 3,441 | 994 | 968 |** 5,403 **|
+| C | 29 | 2,506 | 790 | 485 |** 3,781 **|
+| JavaScript | 14 | 2,369 | 341 | 451 |** 3,161 **|
+| SQL | 5 | 2,078 | 5 | 54 |** 2,137 **|
+| HTML | 14 | 621 | 43 | 131 |** 795 **|
+| C++ | 11 | 351 | 371 | 187 |** 909 **|
+| Shell Script | 9 | 223 | 54 | 64 |** 341 **|
+| Batch | 5 | 193 | 60 | 102 |** 355 **|
+| LaTeX | 3 | 140 | 0 | 44 |** 184 **|
+| Assembly | 2 | 75 | 0 | 2 |** 77 **|
+| Makefile | 6 | 61 | 1 | 26 |** 88 **|
 
 ## My projects
 Here I've listed some of my projects, that are on Github. They classify into three categories:
