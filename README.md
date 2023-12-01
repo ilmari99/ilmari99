@@ -11,7 +11,6 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/ilmariv/)!
 | language | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
 | Python | 277 | 23,356 | 7,414 | 3,857 | **34,627** |
-| Markdown | 207 | 14,912 | 271 | 6,056 | **21,239** |
 | Java | 72 | 8,854 | 566 | 1,799 | **11,219** |
 | MATLAB | 41 | 3,441 | 994 | 968 | **5,403** |
 | C | 29 | 2,506 | 790 | 485 | **3,781** |
