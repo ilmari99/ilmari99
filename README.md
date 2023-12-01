@@ -1,4 +1,4 @@
-<h1 align="center"></h1>
+Lines of code in my GitHub repositories (updated on 01 December 2023)
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> </a> </a> </a> </p>
 I'm a 4th-year data science student from Finland, and I'm interested in solving problems and learning new solutions, especially in AI!
 
@@ -11,18 +11,21 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/ilmariv/)!
 ## Lines of code in my Github (11.07.2023)
 | language | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| Python | 190 | 16,233 | 5,452 | 2,432 | **24,117** |
-| MATLAB | 34 | 2,952 | 750 | 721 | **4,423** |
-| C | 28 | 2,412 | 781 | 465 | **3,658** |
-| Java | 15 | 1,454 | 122 | 341 | **1,917** |
-| Markdown | 24 | 999 | 133 | 529 | **1,661** |
-| C++ | 11 | 351 | 371 | 187 | **909** |
-| HTML | 7 | 290 | 1 | 80 | **371** |
-| SQL | 2 | 256 | 0 | 38 | **294** |
-| Shell Script | 6 | 131 | 13 | 12 | **156** |
-| Assembly | 2 | 75 | 0 | 2 | **77** |
+| Python | 277 | 23,352 | 7,413 | 3,855 | 34,620 |
+| Markdown | 207 | 14,913 | 271 | 6,056 | 21,240 |
+| Java | 72 | 8,854 | 566 | 1,799 | 11,219 |
+| MATLAB | 41 | 3,441 | 994 | 968 | 5,403 |
+| C | 29 | 2,506 | 790 | 485 | 3,781 |
+| JavaScript | 14 | 2,369 | 341 | 451 | 3,161 |
+| SQL | 5 | 2,078 | 5 | 54 | 2,137 |
+| HTML | 14 | 621 | 43 | 131 | 795 |
+| C++ | 11 | 351 | 371 | 187 | 909 |
+| Shell Script | 9 | 223 | 54 | 64 | 341 |
+| Batch | 5 | 193 | 60 | 102 | 355 |
+| LaTeX | 3 | 140 | 0 | 44 | 184 |
+| Assembly | 2 | 75 | 0 | 2 | 77 |
+| Makefile | 6 | 61 | 1 | 26 | 88 |
 
-<br></br>
 ## My projects
 Here I've listed some of my projects, that are on Github. They classify into three categories:
 * My AI projects
