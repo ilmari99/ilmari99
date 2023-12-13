@@ -7,18 +7,19 @@ Above are some of the tools I can use, *roughly in order of proficiency*.
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/ilmariv/)!
 
-### Lines of code in my GitHub repositories (updated on 01 December 2023)
+### Lines of code in my GitHub repositories (updated on 13 December 2023)
 | language | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| Python | 278 | 23,431 | 7,445 | 3,879 | **34,755** |
+| Python | 294 | 25,217 | 8,258 | 4,369 | **37,844** |
 | Java | 72 | 8,854 | 566 | 1,799 | **11,219** |
-| MATLAB | 41 | 3,441 | 994 | 968 | **5,403** |
+| MATLAB | 44 | 3,501 | 1,009 | 991 | **5,501** |
 | C | 29 | 2,506 | 790 | 485 | **3,781** |
 | JavaScript | 14 | 2,369 | 341 | 451 | **3,161** |
 | SQL | 5 | 2,078 | 5 | 54 | **2,137** |
 | HTML | 14 | 621 | 43 | 131 | **795** |
 | C++ | 11 | 351 | 371 | 187 | **909** |
 | Shell Script | 9 | 223 | 54 | 64 | **341** |
+| Gradle | 12 | 206 | 12 | 72 | **290** |
 | Batch | 5 | 193 | 60 | 102 | **355** |
 | LaTeX | 3 | 140 | 0 | 44 | **184** |
 | Assembly | 2 | 75 | 0 | 2 | **77** |
