@@ -40,8 +40,8 @@ In most cases the project repository contains a more accurate description of wha
 <!-- Projects in AI table markdown-->
 | Title | Description | Link |
 | --- | --- | --- |
-|<img src= "img/jack-of-hearts.png" width ="40" height="60"><br>**Moska** | Engine and a super-human AI player for a card game called Moska. | [Thesis](https://urn.fi/URN:NBN:fi-fe2023051644576), [MoskaEngine](https://github.com/ilmari99/MoskaEngine), [MoskaResearch](https://github.com/ilmari99/MoskaResearch), [Moska website](https://moska-online.ngrok.app/)
-|<img src="img/tg-logo.webp" width="30" height="30"><br>**TG GPT** | Download a *GPT* based model, finetune on your own TG (group)chat data, and run the bot! | [tgbot_fin_gpt](https://github.com/ilmari99/TGBOT_FIN_GPT)
+|<img src= "img/jack-of-hearts.png" width ="40" height="60"><br>**Moska** | Engine and a super-human AI player for a card game called Moska. | [Thesis](https://urn.fi/URN:NBN:fi-fe2023051644576), [MoskaEngine](https://github.com/ilmari99/MoskaEngine), [MoskaResearch](https://github.com/ilmari99/MoskaResearch), [Moska website](https://www.moska-online.com/)
+|<img src="img/tg-logo.webp" width="30" height="30"><br>**Telegram GPT bot** | Download a finnish *GPT* model, finetune on your own TG (group)chat data, and run the bot! | [custom-tg-gpt](https://github.com/ilmari99/TGBOT_FIN_GPT)
 |<img src="img/stonks_image.png" width="30" height="30"><br>**Stock prediction** | Given past hourly prices of multiple stocks, predict the whether the stock will go up, down, or stay. Successful modelling allows for optimal market exploitation. We try transformers, LSTM and RNN architectures. | [stonk-prediction](https://github.com/ilmari99/stonk-prediction)
 |<img src="img/norppakivella.jpg" width="80" height="50"><br>**Seal identification**| A Siamese Neural Network for identifying ringed seals. | [ringed-seal-identification](https://github.com/ilmari99/ringed-seal-identification)
 |**Oparch** | An old project which attempts to optimize the architecture of a neural network. | [oparch](https://github.com/ilmari99/oparch)
@@ -55,9 +55,9 @@ In most cases the project repository contains a more accurate description of wha
 <!-- Other own projects -->
 | Title | Description | Link |
 | --- | --- | --- |
-|<img src="img/alg-logo.png" width="70" height="70"><br>**Algorithms** | A collection of standalone algorithms and scripts. Tic-Tac-Toe AI, reverse Collatz, Foobar, etc. | [Algorithms](https://github.com/ilmari99/algorithms)
+|<img src="img/alg-logo.png" width="70" height="70"><br>**Algorithms** | A collection of standalone algorithms and scripts. Tic-Tac-Toe AI, reverse Collatz, extra Foobar challenges, etc. | [Algorithms](https://github.com/ilmari99/algorithms)
 | **Data analysis** | A paid data analysis about housing in the city of Imatra. Contains only part of the results, and in Finnish. | [imatra-public-results](https://github.com/ilmari99/imatra-public-results)
-|**Google Foobar** | My solutions to a 5-level programming challenge, which had *very* interesting problems. | [Google-Foobar](https://github.com/ilmari99/google-foobar)
+|<img src="img/google_g.png" width="50" height="50"><br>**Google Foobar** | My solutions to a 5-level programming challenge, which had *very* interesting problems. | [Google-Foobar](https://github.com/ilmari99/google-foobar)
 
 <br></br>
 ---
