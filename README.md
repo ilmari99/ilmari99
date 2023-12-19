@@ -52,6 +52,7 @@ In most cases the project repository contains a more accurate description of wha
 |<img src="img/alg-logo.png" width="70" height="70"><br>**Algorithms** | A collection of standalone algorithms and scripts. Tic-Tac-Toe AI, reverse Collatz, extra Foobar challenges, etc. | [Algorithms](https://github.com/ilmari99/algorithms)
 | **Data analysis** | A paid data analysis about housing in the city of Imatra. Contains only part of the results, and in Finnish. | [imatra-public-results](https://github.com/ilmari99/imatra-public-results)
 |<img src="img/google_g.png" width="50" height="50"><br>**Google Foobar** | My solutions to a 5-level programming challenge, which had *very* interesting problems. | [Google-Foobar](https://github.com/ilmari99/google-foobar)
+|<img src="img/advent-of-code-image.png" width="50" height="50"><br> **Advent of Code** | My solutions to the yearly Advent of Code challenges 2023. | [Advent-of-Code](https://github.com/ilmari99/advent-of-code23)
 
 <br></br>
 ---
