@@ -66,6 +66,7 @@ In most cases the project repository contains a more accurate description of wha
 | **Cryptography LWE** | Public-key *cryptography* using the Learning-with-errors problem | [LWE](https://github.com/ilmari99/learning-with-errors)
 | **Embedded systems** | An alarm system, using C | [embedded-systems-project](https://github.com/ilmari99/embedded-systems-project)
 | **Systems programming** | Projects for a course on OS's and systems programming. | [Projects and exercises](https://github.com/ilmari99/Sys-prog-ex)
+| **3D digit recognition** | Project/competition submission for Pattern recognition course. Our team reached the highest score since the competition began in 2016! | [3D digit recognition](https://github.com/ilmari99/DigitRecognition3D)
 | **Data analysis** | Data analysis about wine quality | [wine-quality](https://github.com/ilmari99/Wine-analysis)
 
 
