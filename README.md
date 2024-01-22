@@ -73,10 +73,10 @@ In most cases the project repository contains a more accurate description of wha
 
 <br></br>
 
-### Lines of code in my GitHub repositories (updated on 19 December 2023)
+### Lines of code in my GitHub repositories (updated on 22 January 2024)
 | language | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| Python | 302 | 30,506 | 3,644 | 5,169 | **39,319** |
+| Python | 302 | 30,506 | 3,623 | 5,146 | **39,275** |
 | Java | 72 | 8,854 | 566 | 1,799 | **11,219** |
 | MATLAB | 44 | 3,501 | 1,009 | 991 | **5,501** |
 | C | 29 | 2,506 | 790 | 485 | **3,781** |
@@ -85,11 +85,11 @@ In most cases the project repository contains a more accurate description of wha
 | HTML | 14 | 621 | 43 | 131 | **795** |
 | C++ | 11 | 351 | 371 | 187 | **909** |
 | Shell Script | 9 | 223 | 54 | 64 | **341** |
-| Gradle | 12 | 206 | 12 | 72 | **290** |
 | Batch | 5 | 193 | 60 | 102 | **355** |
 | LaTeX | 3 | 140 | 0 | 44 | **184** |
 | Assembly | 2 | 75 | 0 | 2 | **77** |
 | Makefile | 6 | 61 | 1 | 26 | **88** |
+
 
 
 
