@@ -35,7 +35,7 @@ In most cases the project repository contains a more accurate description of wha
 | Title | Description | Link |
 | --- | --- | --- |
 |<img src= "img/jack-of-hearts.png" width ="40" height="60"><br>**Moska** | Engine and a super-human AI player for a card game called Moska. | [Thesis](https://urn.fi/URN:NBN:fi-fe2023051644576), [MoskaEngine](https://github.com/ilmari99/MoskaEngine), [MoskaResearch](https://github.com/ilmari99/MoskaResearch), [Moska website](https://www.moska-online.com/)
-|<img src="img/tg-logo.webp" width="30" height="30"><br>**Telegram GPT bot** | Download a finnish *GPT* model, finetune on your own TG (group)chat data, and run the bot! | [custom-tg-gpt](https://github.com/ilmari99/TGBOT_FIN_GPT)
+|<img src="img/tg-logo.webp" width="30" height="30"><br>**Telegram GPT bot** | Telegram chat bot, and utilities to finetune a HuggingFace GPT model on your own chat data, or use the OpenAI finetuning service. | [custom-tg-gpt](https://github.com/ilmari99/TGBOT_FIN_GPT)
 |<img src="img/stonks_image.png" width="30" height="30"><br>**Stock prediction** | Given past hourly prices of multiple stocks, predict the whether the stock will go up, down, or stay. Successful modelling allows for optimal market exploitation. We try transformers, LSTM and RNN architectures. | [stonk-prediction](https://github.com/ilmari99/stonk-prediction)
 |<img src="img/norppakivella.jpg" width="80" height="50"><br>**Seal identification**| A Siamese Neural Network for identifying ringed seals. | [ringed-seal-identification](https://github.com/ilmari99/ringed-seal-identification)
 |**Oparch** | An old project which attempts to optimize the architecture of a neural network. | [oparch](https://github.com/ilmari99/oparch)
