@@ -73,22 +73,24 @@ In most cases the project repository contains a more accurate description of wha
 
 <br></br>
 
-### Lines of code in my GitHub repositories (updated on 22 January 2024)
+### Lines of code in my GitHub repositories (updated on 24 April 2024)
 | language | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| Python | 302 | 30,506 | 3,623 | 5,146 | **39,275** |
+| Python | 410 | 39,306 | 4,738 | 6,953 | **50,997** |
 | Java | 72 | 8,854 | 566 | 1,799 | **11,219** |
 | MATLAB | 44 | 3,501 | 1,009 | 991 | **5,501** |
 | C | 29 | 2,506 | 790 | 485 | **3,781** |
 | JavaScript | 14 | 2,369 | 341 | 451 | **3,161** |
 | SQL | 5 | 2,078 | 5 | 54 | **2,137** |
 | HTML | 14 | 621 | 43 | 131 | **795** |
+| Shell Script | 16 | 430 | 130 | 149 | **709** |
 | C++ | 11 | 351 | 371 | 187 | **909** |
-| Shell Script | 9 | 223 | 54 | 64 | **341** |
 | Batch | 5 | 193 | 60 | 102 | **355** |
 | LaTeX | 3 | 140 | 0 | 44 | **184** |
+| CUDA C++ | 1 | 100 | 42 | 35 | **177** |
 | Assembly | 2 | 75 | 0 | 2 | **77** |
 | Makefile | 6 | 61 | 1 | 26 | **88** |
+
 
 
 
