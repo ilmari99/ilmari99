@@ -10,7 +10,7 @@ In my projects and studies my focus is on
 
 I am experienced in Python and machine learning, and I'm always curious to learn more. Above are some of the tools I can use, *roughly in order of proficiency*.
 
-I am also available for freelance work through my sole proprietorship, Tmi Ilmari Vahteristo (starting business in 2024). Please feel free to contact me for inquiries or project proposals. I also do consultations where we can try to identify where your business might benefit from AI, math or advanced algorithms.
+I am also available for freelance work in mathematics and machine learning through my sole proprietorship, Tmi Ilmari Vahteristo (starting business in 2024).
 
 I am eager to collaborate with like-minded individuals and organizations to explore the vast potential of data science and contribute to meaningful advancements in the field.
 
