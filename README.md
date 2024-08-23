@@ -16,7 +16,7 @@ I've classified my projects into three categories:
 | Title | Description | Link |
 | --- | --- | --- |
 |<img src= "img/jack-of-hearts.png" width ="40" height="60"><br>**Moska** | Engine and an AI player for a card game called Moska. | [BSc Thesis](https://urn.fi/URN:NBN:fi-fe2023051644576), [MoskaEngine](https://github.com/ilmari99/MoskaEngine), [MoskaResearch](https://github.com/ilmari99/MoskaResearch), [Website](https://www.moska-online.com/)
-|<img src= "img/blokus-board.png" width ="40" height="60"><br>**Reinforcement Learning** | A reinforcement learning framework: Simulate, fit, repeat. | [RLFramework](https://github.com/ilmari99/RLFramework)
+|<img src= "img/blokus_board.jpg" width ="60" height="60"><br>**Reinforcement Learning** | A reinforcement learning framework: Simulate, fit, repeat. | [RLFramework](https://github.com/ilmari99/RLFramework)
 |<img src="img/tg-logo.webp" width="30" height="30"><br>**Telegram GPT bot** | Telegram chat bot, and utilities to finetune a HuggingFace or OpenAI model with your own Telegram data. | [Teekkarialy](https://github.com/ilmari99/teekkarialy)
 |<img src="img/stonks_image.png" width="30" height="30"><br>**Stock prediction** | Given past hourly prices of multiple stocks, predict the whether the stock will go up, down, or stay. Successful modelling allows for optimal market exploitation. We try transformers, LSTM and RNN architectures. | [stonk-prediction](https://github.com/ilmari99/stonk-prediction)
 |<img src="img/norppakivella.jpg" width="80" height="50"><br>**Seal identification**| A Siamese Neural Network for identifying ringed seals. | [ringed-seal-identification](https://github.com/ilmari99/ringed-seal-identification)
@@ -31,11 +31,12 @@ I've classified my projects into three categories:
 <!-- Other own projects -->
 | Title | Description | Link |
 | --- | --- | --- |
-|<img src="img/simple-object-and-sinogram.png" width="70" height="70"><br>**Inverse Radon Transform** | Research on CT imaging reconstruction: Algorithms, math, AI. | [limited-angle-tomography](https://github.com/ilmari99/limited-angle-tomography)
+|<img src="img/A-simple-object-and-the-sinogram.png" width="140" height="70"><br>**Inverse Radon Transform** | Research on CT imaging reconstruction: Algorithms, math, AI. | [limited-angle-tomography](https://github.com/ilmari99/limited-angle-tomography)
 |<img src="img/alg-logo.png" width="70" height="70"><br>**Algorithms** | A collection of standalone algorithms and scripts. Tic-Tac-Toe AI, reverse Collatz, extra Foobar challenges, etc. | [Algorithms](https://github.com/ilmari99/algorithms)
 | **Data analysis** | A paid data analysis about housing in the city of Imatra. Contains only part of the results, and in Finnish. | [imatra-public-results](https://github.com/ilmari99/imatra-public-results)
 |<img src="img/google_g.png" width="50" height="50"><br>**Google Foobar** | My solutions to a 5-level programming challenge, which had *very* interesting problems. | [Google-Foobar](https://github.com/ilmari99/google-foobar)
 |<img src="img/advent-of-code-image.png" width="50" height="50"><br> **Advent of Code** | My solutions to the yearly Advent of Code challenges 2023. | [Advent-of-Code](https://github.com/ilmari99/advent-of-code23)
+|<img src= "img/blokus_board.jpg" width ="60" height="60"><br>**Blokus in Python** | A wrapper on the Pentobi library, that allows playing Blokus Classic through Python. | [BlokusPentobi](https://github.com/ilmari99/PythonBlokus)
 
 <br></br>
 ---
@@ -46,11 +47,11 @@ I've classified my projects into three categories:
 | --- | --- | --- |
 |**Dynamic soft sensor for mining process** | A soft sensor for predicting the quality of a froth flotation plant. | [mining-process](https://github.com/ilmari99/MiningProcessData)
 |**Math for machine learning** | Projects: Recommendation system using *matrix decomposition*, music classification with *dimensionality reduction* methods, and an SVM classifier for financial news sentiment analysis (also *Word2Vec* model). | [matrix decomposition](https://github.com/ilmari99/M4ML-recommendation-algorithm), [dimensionality reduction](https://github.com/ilmari99/M4ML-dim-reduction), [SVM](https://github.com/ilmari99/M4ML-SVM)
+| **3D digit recognition** | Project/competition submission for Pattern recognition course. Our team reached the highest score since the competition began in 2016! | [3D digit recognition](https://github.com/ilmari99/DigitRecognition3D)
 | **Gaussian processes** | Using *Gaussian processes* for regression | [Gaussian processes](https://github.com/ilmari99/GaussianProcessRegression)
 | **Cryptography LWE** | Public-key *cryptography* using the Learning-with-errors problem | [LWE](https://github.com/ilmari99/learning-with-errors)
 | **Embedded systems** | An alarm system, using C | [embedded-systems-project](https://github.com/ilmari99/embedded-systems-project)
 | **Systems programming** | Projects for a course on OS's and systems programming. | [Projects and exercises](https://github.com/ilmari99/Sys-prog-ex)
-| **3D digit recognition** | Project/competition submission for Pattern recognition course. Our team reached the highest score since the competition began in 2016! | [3D digit recognition](https://github.com/ilmari99/DigitRecognition3D)
 | **Data analysis** | Data analysis about wine quality | [wine-quality](https://github.com/ilmari99/Wine-analysis)
 
 
