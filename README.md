@@ -1,32 +1,13 @@
-<h1 style="text-align: center;"> ❤️ Welcome to my GitHub! ❤️</h1>
+# Ilmari Vahteristo
+Computational science student at LUT University, Finland. I am focused on AI research and entrepreneurship.
 
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> </a> </a> </a> </p>
-I am a computational engineering (data science) student at LUT University.
-
-In my projects and studies my focus is on
-- machine learning,
-- mathematics,
-- and algorithms.
-
-I am experienced in Python and machine learning, and I'm always curious to learn more. Above are some of the tools I can use, *roughly in order of proficiency*.
-
-I am also available for freelance work in mathematics and machine learning through my sole proprietorship, Tmi Ilmari Vahteristo (starting business in 2024).
-
-I am eager to collaborate with like-minded individuals and organizations to explore the vast potential of data science and contribute to meaningful advancements in the field.
-
-You can also find me on [LinkedIn](https://www.linkedin.com/in/ilmariv/)!
-
-Code line stats below are updated with a [script](https://github.com/ilmari99/update-code-count-table).
-
+[LinkedIn](https://www.linkedin.com/in/ilmariv/)
 
 ## My projects
-Here I've listed some of my projects, that are on Github. They classify into three categories:
-* My AI projects
-* My other projects
-* Projects (both AI and other) for studies
-
-In most cases the project repository contains a more accurate description of what was done in either the README or a report file.
-
+I've classified my projects into three categories:
+* AI projects
+* Other projects
+* Projects for school
 
 ---
 ### **My AI projects**
@@ -34,8 +15,9 @@ In most cases the project repository contains a more accurate description of wha
 <!-- Projects in AI table markdown-->
 | Title | Description | Link |
 | --- | --- | --- |
-|<img src= "img/jack-of-hearts.png" width ="40" height="60"><br>**Moska** | Engine and a super-human AI player for a card game called Moska. | [Thesis](https://urn.fi/URN:NBN:fi-fe2023051644576), [MoskaEngine](https://github.com/ilmari99/MoskaEngine), [MoskaResearch](https://github.com/ilmari99/MoskaResearch), [Moska website](https://www.moska-online.com/)
-|<img src="img/tg-logo.webp" width="30" height="30"><br>**Telegram GPT bot** | Telegram chat bot, and utilities to finetune a HuggingFace GPT model on your own chat data, or use the OpenAI finetuning service. | [custom-tg-gpt](https://github.com/ilmari99/TGBOT_FIN_GPT)
+|<img src= "img/jack-of-hearts.png" width ="40" height="60"><br>**Moska** | Engine and an AI player for a card game called Moska. | [BSc Thesis](https://urn.fi/URN:NBN:fi-fe2023051644576), [MoskaEngine](https://github.com/ilmari99/MoskaEngine), [MoskaResearch](https://github.com/ilmari99/MoskaResearch), [Website](https://www.moska-online.com/)
+|<img src= "img/blokus-board.png" width ="40" height="60"><br>**Reinforcement Learning** | A reinforcement learning framework: Simulate, fit, repeat. | [RLFramework](https://github.com/ilmari99/RLFramework)
+|<img src="img/tg-logo.webp" width="30" height="30"><br>**Telegram GPT bot** | Telegram chat bot, and utilities to finetune a HuggingFace or OpenAI model with your own Telegram data. | [Teekkarialy](https://github.com/ilmari99/teekkarialy)
 |<img src="img/stonks_image.png" width="30" height="30"><br>**Stock prediction** | Given past hourly prices of multiple stocks, predict the whether the stock will go up, down, or stay. Successful modelling allows for optimal market exploitation. We try transformers, LSTM and RNN architectures. | [stonk-prediction](https://github.com/ilmari99/stonk-prediction)
 |<img src="img/norppakivella.jpg" width="80" height="50"><br>**Seal identification**| A Siamese Neural Network for identifying ringed seals. | [ringed-seal-identification](https://github.com/ilmari99/ringed-seal-identification)
 |**Oparch** | An old project which attempts to optimize the architecture of a neural network. | [oparch](https://github.com/ilmari99/oparch)
@@ -49,6 +31,7 @@ In most cases the project repository contains a more accurate description of wha
 <!-- Other own projects -->
 | Title | Description | Link |
 | --- | --- | --- |
+|<img src="img/simple-object-and-sinogram.png" width="70" height="70"><br>**Inverse Radon Transform** | Research on CT imaging reconstruction: Algorithms, math, AI. | [limited-angle-tomography](https://github.com/ilmari99/limited-angle-tomography)
 |<img src="img/alg-logo.png" width="70" height="70"><br>**Algorithms** | A collection of standalone algorithms and scripts. Tic-Tac-Toe AI, reverse Collatz, extra Foobar challenges, etc. | [Algorithms](https://github.com/ilmari99/algorithms)
 | **Data analysis** | A paid data analysis about housing in the city of Imatra. Contains only part of the results, and in Finnish. | [imatra-public-results](https://github.com/ilmari99/imatra-public-results)
 |<img src="img/google_g.png" width="50" height="50"><br>**Google Foobar** | My solutions to a 5-level programming challenge, which had *very* interesting problems. | [Google-Foobar](https://github.com/ilmari99/google-foobar)
@@ -72,7 +55,7 @@ In most cases the project repository contains a more accurate description of wha
 
 
 <br></br>
-
+Code line stats below are updated with a [script](https://github.com/ilmari99/update-code-count-table).
 ### Lines of code in my GitHub repositories (updated on 07 August 2024)
 | language | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
@@ -93,7 +76,7 @@ In most cases the project repository contains a more accurate description of wha
 
 
 
-
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> </a> </a> </a> </p>
 
 
 **Thank you for visiting my profile!**
