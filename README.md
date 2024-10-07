@@ -60,22 +60,21 @@ Code line stats below are updated with a [script](https://github.com/ilmari99/up
 ### Lines of code in my GitHub repositories (updated on 07 October 2024)
 | language | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| Python | 2,841 | 667,205 | 57,981 | 115,989 | **841,175** |
+| Python | 593 | 57,949 | 6,955 | 10,573 | **75,477** |
 | Java | 72 | 8,854 | 566 | 1,799 | **11,219** |
 | MATLAB | 60 | 3,721 | 1,092 | 1,109 | **5,922** |
-| JavaScript | 21 | 3,659 | 619 | 594 | **4,872** |
+| JavaScript | 19 | 3,475 | 595 | 580 | **4,650** |
 | C | 29 | 2,506 | 790 | 485 | **3,781** |
-| C++ | 19 | 2,137 | 825 | 493 | **3,455** |
 | MS SQL | 5 | 2,078 | 5 | 54 | **2,137** |
-| Shell Script | 53 | 1,518 | 621 | 618 | **2,757** |
+| Shell Script | 51 | 1,464 | 602 | 594 | **2,660** |
 | HTML | 25 | 1,232 | 51 | 164 | **1,447** |
+| C++ | 11 | 351 | 371 | 187 | **909** |
 | Batch | 5 | 193 | 60 | 102 | **355** |
 | LaTeX | 3 | 140 | 0 | 44 | **184** |
-| PowerShell | 1 | 108 | 106 | 34 | **248** |
 | CUDA C++ | 1 | 100 | 42 | 35 | **177** |
 | Assembly | 2 | 75 | 0 | 2 | **77** |
 | Makefile | 6 | 61 | 1 | 26 | **88** |
-| reStructuredText | 4 | 44 | 0 | 14 | **58** |
+
 
 
 
