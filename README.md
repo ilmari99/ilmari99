@@ -37,7 +37,7 @@ I’ve organized my projects into the following categories:
 |-------------|-----------------|-----------|
 | <img src="img/A-simple-object-and-the-sinogram.png" width="140" height="70"><br>**Inverse Radon Transform** | Research on CT imaging reconstruction: Math, Deep image priors, ML. | [limited-angle-tomography](https://github.com/ilmari99/limited-angle-tomography) |
 | <img src="img/alg-logo.png" width="70" height="70"><br>**Algorithms** | A collection of algorithms, including Tic-Tac-Toe AI, reverse Collatz, and extra Google Foobar challenges. | [Algorithms](https://github.com/ilmari99/algorithms) |
-| **EquipSnap** | Junction 2024 project: Automated building inventory management. | [EquipSnap](https://github.com/xlDownxl/EquipSnap), [Demo video](https://www.youtube.com/watch?v=jerwB3SQ5Ok) |
+| <img src="img/equipsnap.png" width="70" height="70"><br>**EquipSnap** | Junction 2024 project: Automated building inventory management. | [EquipSnap](https://github.com/xlDownxl/EquipSnap), [Demo video](https://www.youtube.com/watch?v=jerwB3SQ5Ok) |
 | **Data Analysis** | Conducted housing data analysis for the city of Imatra. (Results in Finnish.) | [Imatra Results](https://github.com/ilmari99/imatra-public-results) |
 | <img src="img/google_g.png" width="50" height="50"><br>**Google Foobar** | Solutions to Google's 5-level programming challenge featuring complex, intriguing problems. | [Google-Foobar](https://github.com/ilmari99/google-foobar) |
 | <img src="img/advent-of-code-image.png" width="50" height="50"><br>**Advent of Code 2023** | My solutions to the yearly programming challenge event. | [Advent of Code](https://github.com/ilmari99/advent-of-code23) |
