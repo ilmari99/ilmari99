@@ -3,7 +3,7 @@
 **Computational Science Student**  
 **LUT University, Finland**  
 
-I am passionate about **AI research** and **entrepreneurship**, with a focus on creating innovative solutions at the intersection of technology and business.
+I am passionate about **AI research** and **entrepreneurship**, and I enjoy problem solving and creative work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilmari%20Vahteristo-blue?logo=linkedin)](https://www.linkedin.com/in/ilmariv/)
 
