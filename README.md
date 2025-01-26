@@ -49,6 +49,7 @@ I’ve organized my projects into the following categories:
 
 | **Project** | **Description** | **Links** |
 |-------------|-----------------|-----------|
+| **CoinCounter** | Count the number and type of coins in an image using segmentation, bounding boxes, and color analysis. | [CoinCounter](https://github.com/ilmari99/CoinCounter) |
 | **Dynamic Soft Sensor** | Built a predictive sensor for froth flotation plant quality. | [Mining Process](https://github.com/ilmari99/MiningProcessData) |
 | **Math for Machine Learning** | Projects include matrix decomposition for recommendations, dimensionality reduction for music classification, and sentiment analysis using Word2Vec and SVM. | [Recommendation](https://github.com/ilmari99/M4ML-recommendation-algorithm), [Dimensionality Reduction](https://github.com/ilmari99/M4ML-dim-reduction), [SVM](https://github.com/ilmari99/M4ML-SVM) |
 | **3D Digit Recognition** | Competition-winning submission for 3D digit recognition, achieving the top score since 2016. | [Digit Recognition](https://github.com/ilmari99/DigitRecognition3D) |
