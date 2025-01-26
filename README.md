@@ -60,6 +60,7 @@ In most cases the project repository contains a more accurate description of wha
 <!-- Projects done for studies> -->
 | Title | Description | Link |
 | --- | --- | --- |
+|**Coin Counter** | Count the number and type of coins in an image using size and color information. | [CoinCounter](https://github.com/ilmari99/CoinCounter)
 |**Dynamic soft sensor for mining process** | A soft sensor for predicting the quality of a froth flotation plant. | [mining-process](https://github.com/ilmari99/MiningProcessData)
 |**Math for machine learning** | Projects: Recommendation system using *matrix decomposition*, music classification with *dimensionality reduction* methods, and an SVM classifier for financial news sentiment analysis (also *Word2Vec* model). | [matrix decomposition](https://github.com/ilmari99/M4ML-recommendation-algorithm), [dimensionality reduction](https://github.com/ilmari99/M4ML-dim-reduction), [SVM](https://github.com/ilmari99/M4ML-SVM)
 | **Gaussian processes** | Using *Gaussian processes* for regression | [Gaussian processes](https://github.com/ilmari99/GaussianProcessRegression)
