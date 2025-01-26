@@ -67,23 +67,26 @@ Feel free to reach out via LinkedIn or explore my GitHub repositories!
 
 <br></br>
 Code line stats below are updated with a [script](https://github.com/ilmari99/update-code-count-table).
-### Lines of code in my GitHub repositories (updated on 07 October 2024)
+### Lines of code in my GitHub repositories (updated on 26 January 2025)
 | language | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| Python | 593 | 57,949 | 6,955 | 10,573 | **75,477** |
+| Python | 625 | 59,825 | 7,246 | 11,011 | **78,082** |
 | Java | 72 | 8,854 | 566 | 1,799 | **11,219** |
-| MATLAB | 60 | 3,721 | 1,092 | 1,109 | **5,922** |
+| MATLAB | 168 | 7,071 | 2,402 | 2,162 | **11,635** |
 | JavaScript | 19 | 3,475 | 595 | 580 | **4,650** |
 | C | 29 | 2,506 | 790 | 485 | **3,781** |
 | MS SQL | 5 | 2,078 | 5 | 54 | **2,137** |
 | Shell Script | 51 | 1,464 | 602 | 594 | **2,660** |
-| HTML | 25 | 1,232 | 51 | 164 | **1,447** |
+| HTML | 27 | 1,295 | 51 | 166 | **1,512** |
+| Log | 2 | 1,188 | 0 | 37 | **1,225** |
+| LaTeX | 7 | 1,164 | 0 | 272 | **1,436** |
+| BibTeX | 3 | 696 | 0 | 95 | **791** |
 | C++ | 11 | 351 | 371 | 187 | **909** |
 | Batch | 5 | 193 | 60 | 102 | **355** |
-| LaTeX | 3 | 140 | 0 | 44 | **184** |
 | CUDA C++ | 1 | 100 | 42 | 35 | **177** |
 | Assembly | 2 | 75 | 0 | 2 | **77** |
 | Makefile | 6 | 61 | 1 | 26 | **88** |
+
 
 
 
