@@ -1,33 +1,34 @@
 # Ilmari Vahteristo
 
-**Computational Science Student**  
-**LUT University, Finland**  
+**Computer vision and data science**  
+**LUT University, Finland**
 
-I am passionate about **AI research** and **entrepreneurship**, and I enjoy problem solving and creative work.
+I am passionate about research and entrepreneurship, and I enjoy problem solving, creative work, and organizing. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilmari%20Vahteristo-blue?logo=linkedin)](https://www.linkedin.com/in/ilmariv/)
 
 ---
 
-## 📂 Projects Overview  
+## 📂 Projects Overview
 
-I’ve organized my projects into the following categories:  
-1. **AI Projects** – Projects mainly related to machine learning.
-2. **Other Projects** – Projects exploring algorithms, CT imaging, and other non-ML. 
-3. **Cool coursework** – Coursework projects.
+I’ve organized the projects into:  
+1. **AI/ML** – Projects mainly related to machine learning.
+2. **Algo/Math/Computer vision** – Other projects related to algorithms, math, computer vision, etc.
+3. **Coursework** – Coursework projects.
 
 ---
 
-## 🚀 **AI Projects**
+## 🚀 **AI/ML Projects**
 
 | **Project** | **Description** | **Links** |
 |-------------|-----------------|-----------|
-| <img src="img/jack-of-hearts.png" width="40" height="60"><br>**Moska** | Developed an engine and AI player for the card game "Moska." Bachelor's thesis, engine, and online platform. | [BSc Thesis](https://urn.fi/URN:NBN:fi-fe2023051644576), [MoskaEngine](https://github.com/ilmari99/MoskaEngine), [MoskaResearch](https://github.com/ilmari99/MoskaResearch), [Website](https://www.moska-online.com/) |
-| <img src="img/blokus_board.jpg" width="60" height="60"><br>**Reinforcement Learning Framework and AI for Blokus** | A modular framework for reinforcement learning experiments: simulate, train, and iterate. Created a pure NN solution for Blokus AI. | [RLFramework](https://github.com/ilmari99/RLFramework) |
+| <img src="img/A-simple-object-and-the-sinogram.png" width="140" height="70"><br>**Inverse Radon Transform** | Our paper and code on computed tomography reconstruction in ultra low-data domains. | [Paper](https://arxiv.org/abs/2502.12293), <br> [Github](https://github.com/ilmari99/data-efficient-lact) |
+| <img src="img/equipsnap.png" width="70" height="70"><br>**EquipSnap** | Junction Hackathon 2024 project: Automated building inventory management. | [EquipSnap](https://github.com/xlDownxl/EquipSnap),<br> [Demo video](https://www.youtube.com/watch?v=jerwB3SQ5Ok) |
+| <img src="img/jack-of-hearts.png" width="40" height="60"><br>**Moska** | Developed an engine and AI player for the card game "Moska". Bachelor's thesis, engine, and online platform. Better than best humans. | [BSc Thesis](https://urn.fi/URN:NBN:fi-fe2023051644576), [MoskaEngine](https://github.com/ilmari99/MoskaEngine), [MoskaResearch](https://github.com/ilmari99/MoskaResearch), [Website](https://www.moska-online.com/) |
+| <img src="img/blokus_board.jpg" width="60" height="60"><br>**AI for Blokus** | Created a pure NN solution for Blokus. The performance is not as good as mcts, but it's pure NN. | [RLFramework](https://github.com/ilmari99/RLFramework) |
 | <img src="img/tg-logo.webp" width="30" height="30"><br>**Teekkariäly** | Telegram bot and utilities for fine-tuning HuggingFace or OpenAI models using personal Telegram data. | [Teekkarialy](https://github.com/ilmari99/teekkarialy) |
-| <img src="img/stonks_image.png" width="30" height="30"><br>**Stock Prediction** | Predicts stock movement (up, down, stable) using multiple stocks historical prices. Optimal exploitation if succesful. Uses transformer models. | [stonk-prediction](https://github.com/ilmari99/stonk-prediction) |
+| <img src="img/stonks_image.png" width="30" height="30"><br>**Stock Prediction** | Predicts stock movement (up, down, stable) using multiple stocks' historical prices. Uses transformer models. Optimal market exploitation algorithm if u/d prediction works. | [stonk-prediction](https://github.com/ilmari99/stonk-prediction) |
 | <img src="img/norppakivella.jpg" width="80" height="50"><br>**Seal Identification** | A Siamese Neural Network to identify individual ringed seals. | [ringed-seal-identification](https://github.com/ilmari99/ringed-seal-identification) |
-| **Oparch** | An early project to optimize neural network architectures. | [Oparch](https://github.com/ilmari99/oparch) |
 
 ---
 
@@ -35,13 +36,10 @@ I’ve organized my projects into the following categories:
 
 | **Project** | **Description** | **Links** |
 |-------------|-----------------|-----------|
-| <img src="img/A-simple-object-and-the-sinogram.png" width="140" height="70"><br>**Inverse Radon Transform** | Research on CT imaging reconstruction: Math, Deep image priors, ML. | [limited-angle-tomography](https://github.com/ilmari99/limited-angle-tomography) |
 | <img src="img/alg-logo.png" width="70" height="70"><br>**Algorithms** | A collection of algorithms, including Tic-Tac-Toe AI, reverse Collatz, and extra Google Foobar challenges. | [Algorithms](https://github.com/ilmari99/algorithms) |
-| <img src="img/equipsnap.png" width="70" height="70"><br>**EquipSnap** | Junction 2024 project: Automated building inventory management. | [EquipSnap](https://github.com/xlDownxl/EquipSnap), [Demo video](https://www.youtube.com/watch?v=jerwB3SQ5Ok) |
-| **Data Analysis** | Conducted housing data analysis for the city of Imatra. (Results in Finnish.) | [Imatra Results](https://github.com/ilmari99/imatra-public-results) |
 | <img src="img/google_g.png" width="50" height="50"><br>**Google Foobar** | Solutions to Google's 5-level programming challenge featuring complex, intriguing problems. | [Google-Foobar](https://github.com/ilmari99/google-foobar) |
-| <img src="img/advent-of-code-image.png" width="50" height="50"><br>**Advent of Code 2023** | My solutions to the yearly programming challenge event. | [Advent of Code](https://github.com/ilmari99/advent-of-code23) |
 | <img src="img/blokus_board.jpg" width="60" height="60"><br>**Blokus in Python** | A Python wrapper for Pentobi library to play Blokus Classic with a Python API. | [BlokusPentobi](https://github.com/ilmari99/PythonBlokus) |
+| **Data Analysis** | Conducted housing data analysis for the city of Imatra. (Results in Finnish.) | [Imatra Results](https://github.com/ilmari99/imatra-public-results) |
 
 ---
 
@@ -49,10 +47,10 @@ I’ve organized my projects into the following categories:
 
 | **Project** | **Description** | **Links** |
 |-------------|-----------------|-----------|
+| **3D Digit Recognition** | Competition-winning submission for 3D digit recognition, achieving the top score since 2016. | [Digit Recognition](https://github.com/ilmari99/DigitRecognition3D) |
 | **CoinCounter** | Count the number and type of coins in an image using segmentation, bounding boxes, and color analysis. | [CoinCounter](https://github.com/ilmari99/CoinCounter) |
 | **Dynamic Soft Sensor** | Built a predictive sensor for froth flotation plant quality. | [Mining Process](https://github.com/ilmari99/MiningProcessData) |
 | **Math for Machine Learning** | Projects include matrix decomposition for recommendations, dimensionality reduction for music classification, and sentiment analysis using Word2Vec and SVM. | [Recommendation](https://github.com/ilmari99/M4ML-recommendation-algorithm), [Dimensionality Reduction](https://github.com/ilmari99/M4ML-dim-reduction), [SVM](https://github.com/ilmari99/M4ML-SVM) |
-| **3D Digit Recognition** | Competition-winning submission for 3D digit recognition, achieving the top score since 2016. | [Digit Recognition](https://github.com/ilmari99/DigitRecognition3D) |
 | **Gaussian Processes** | Used Gaussian Processes for regression analysis. | [Gaussian Processes](https://github.com/ilmari99/GaussianProcessRegression) |
 | **Cryptography with LWE** | Implemented public-key cryptography using the Learning-With-Errors problem. | [LWE](https://github.com/ilmari99/learning-with-errors) |
 | **Embedded Systems** | Created an alarm system using C. | [Embedded Systems](https://github.com/ilmari99/embedded-systems-project) |
