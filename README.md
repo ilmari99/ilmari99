@@ -65,25 +65,31 @@ Feel free to reach out via LinkedIn or explore my GitHub repositories!
 
 <br></br>
 Code line stats below are updated with a [script](https://github.com/ilmari99/update-code-count-table).
-### Lines of code in my GitHub repositories (updated on 26 January 2025)
+### Lines of code in my GitHub repositories (updated on 23 February 2026)
 | language | files | code | comment | blank | total |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| Python | 625 | 59,825 | 7,246 | 11,011 | **78,082** |
+| Python | 698 | 69,611 | 19,647 | 14,300 | **103,558** |
+| Objective-C | 170 | 9,613 | 0 | 2,173 | **11,786** |
 | Java | 72 | 8,854 | 566 | 1,799 | **11,219** |
-| MATLAB | 168 | 7,071 | 2,402 | 2,162 | **11,635** |
-| JavaScript | 19 | 3,475 | 595 | 580 | **4,650** |
+| JavaScript | 19 | 3,476 | 594 | 580 | **4,650** |
 | C | 29 | 2,506 | 790 | 485 | **3,781** |
+| HTML | 32 | 2,461 | 62 | 275 | **2,798** |
 | MS SQL | 5 | 2,078 | 5 | 54 | **2,137** |
+| LaTeX | 20 | 1,675 | 122 | 394 | **2,191** |
 | Shell Script | 51 | 1,464 | 602 | 594 | **2,660** |
-| HTML | 27 | 1,295 | 51 | 166 | **1,512** |
 | Log | 2 | 1,188 | 0 | 37 | **1,225** |
-| LaTeX | 7 | 1,164 | 0 | 272 | **1,436** |
-| BibTeX | 3 | 696 | 0 | 95 | **791** |
+| BibTeX | 8 | 744 | 1 | 103 | **848** |
+| TypeScript JSX | 10 | 402 | 0 | 48 | **450** |
 | C++ | 11 | 351 | 371 | 187 | **909** |
 | Batch | 5 | 193 | 60 | 102 | **355** |
+| LaTeX class | 1 | 184 | 46 | 36 | **266** |
+| TypeScript | 6 | 162 | 0 | 35 | **197** |
 | CUDA C++ | 1 | 100 | 42 | 35 | **177** |
-| Assembly | 2 | 75 | 0 | 2 | **77** |
 | Makefile | 6 | 61 | 1 | 26 | **88** |
+| toml | 1 | 23 | 0 | 4 | **27** |
+| LaTeX package | 1 | 12 | 2 | 4 | **18** |
+| Docker | 1 | 6 | 0 | 5 | **11** |
+
 
 
 
