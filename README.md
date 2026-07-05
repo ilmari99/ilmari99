@@ -14,6 +14,7 @@ I currently work at a startup building near-real-time measurement systems for he
 - Completed Google's Foobar challenge (nine algorithmic problems), which led to a Google interview ([solutions](https://github.com/ilmari99/google-foobar)).
 - Won the ElevenLabs voice-AI challenge at Junction 2025 with [Junction Simulator](https://youtu.be/WhviYsdgZNE); top 5% at Junction 2024 with [EquipSnap](https://www.youtube.com/watch?v=jerwB3SQ5Ok).
 - 7th of 800 in Kaggle's "LLM 20 Questions" with an alphabet based model and a CoT LLM agent.
+- BLASE: a global optimizer for spherical codes that beat 1,550 known records (20.7%) on spherical-codes.org ([code](https://github.com/ilmari99/tammes_BLASE)).
 
 ---
 
@@ -21,10 +22,11 @@ I currently work at a startup building near-real-time measurement systems for he
 
 | Project | What it is | Links |
 | :--- | :--- | :--- |
+| **PolyGate** | A Model Context Protocol server that lets any LLM agent research and trade Polymarket prediction markets. | [GitHub](https://github.com/ilmari99/polygate) |
+| **Data-Efficient Limited-Angle CT** | First-author IEEE paper: CT reconstruction in ultra low-data settings using deep priors and regularization. | [Paper](https://arxiv.org/abs/2502.12293) · [Code](https://github.com/ilmari99/data-efficient-lact) |
+| **BLASE** | A population-based global optimizer for the Tammes problem (spherical codes) that improved 1,550 records (20.7%) over spherical-codes.org from random starts. | [GitHub](https://github.com/ilmari99/tammes_BLASE) |
 | **LiDAR 3D reconstruction** (MSc thesis) | A LiDAR-only method that corrects motion distortion to reconstruct moving vehicles in 3D — ~37 mm accuracy on real trucks, with no IMU or wheel encoders. Done with a deep-tech startup. | [MSc thesis](https://lutpub.lut.fi/handle/10024/170362) |
 | **Moska** | RL engine and self-play agent for the card game Moska. The agent ranked above the best human players on a public leaderboard. | [BSc thesis](https://urn.fi/URN:NBN:fi-fe2023051644576)|
-| **Data-Efficient Limited-Angle CT** | First-author IEEE paper: CT reconstruction in ultra low-data settings using deep priors and regularization. | [Paper](https://arxiv.org/abs/2502.12293) · [Code](https://github.com/ilmari99/data-efficient-lact) |
-| **PolyGate** | A Model Context Protocol server that lets any LLM agent research and trade Polymarket prediction markets. | [GitHub](https://github.com/ilmari99/polygate) |
 | **Teekkariäly** | Finetuned a Finnish GPT-3 on 20k group-chat messages and deployed it as a Telegram bot. | [GitHub](https://github.com/ilmari99/teekkarialy) |
 | **Blokus AI** | A pure neural-network self-play agent for Blokus — no MCTS, just the network. | [Paper draft](https://github.com/ilmari99/Blokus-Paper) |
 | **Stock direction prediction** | Transformer classifier for hourly price movement across OMX Helsinki stocks. | [GitHub](https://github.com/ilmari99/stonk-prediction) |
