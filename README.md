@@ -6,8 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilmari%20Vahteristo-blue?logo=linkedin)](https://www.linkedin.com/in/ilmariv/)
 [![Email](https://img.shields.io/badge/Email-i.vahteristo%40gmail.com-red?logo=gmail&logoColor=white)](mailto:i.vahteristo@gmail.com)
 
-[![Terminal preview of ilmarivahteristo.com](img/website-terminal.png)](https://ilmarivahteristo.com)
-
 I currently work at a startup building near-real-time measurement systems for heavy industry — computer vision and ML on edge devices, using cameras, LiDAR, and lasers. I have an MSc in Computer Vision & Pattern Recognition from LUT University and am doing a second MSc in Robotics & Automation at Aalto. I like hard problems: research, systems that ship, and the occasional competition.
 
 **Highlights**
