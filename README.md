@@ -23,7 +23,7 @@ I am an ML / Computer-Vision Engineer (MSc), but I can wear many hats and have a
 | :--- | :--- | :--- |
 | **PolyGate** | A Model Context Protocol server that lets any LLM agent research and trade Polymarket prediction markets. | [GitHub](https://github.com/ilmari99/polygate-connector) |
 | **Data-Efficient Limited-Angle CT** | First-author IEEE paper: CT reconstruction in ultra low-data settings using deep priors and regularization. | [Paper](https://arxiv.org/abs/2502.12293) · [Code](https://github.com/ilmari99/data-efficient-lact) |
-| **BLASE** | A solver for the spherical code problem that improved x,xxx records (xx,x%) over public records in spherical-codes.org. | [GitHub](https://github.com/ilmari99/Spherical-code-solver) |
+| **Spherical code solver** | A solver for the spherical code problem that improved x,xxx records (xx,x%) over public records in spherical-codes.org. | [GitHub](https://github.com/ilmari99/Spherical-code-solver) |
 | **LiDAR 3D reconstruction** (MSc thesis) | A LiDAR-only method that corrects motion distortion to reconstruct moving vehicles in 3D — ~37 mm accuracy on real trucks, with no IMU or wheel encoders. Done with a deep-tech startup. | [MSc thesis](https://lutpub.lut.fi/handle/10024/170362) |
 | **Moska** | RL engine and self-play agent for the card game Moska. The agent ranked above the best human players on a public leaderboard. | [BSc thesis](https://urn.fi/URN:NBN:fi-fe2023051644576)|
 | **Teekkariäly** | Finetuned a Finnish GPT-3 on 20k group-chat messages and deployed it as a Telegram bot. | [GitHub](https://github.com/ilmari99/teekkarialy) |
