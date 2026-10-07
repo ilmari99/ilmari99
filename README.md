@@ -1,21 +1,19 @@
 ﻿# Ilmari Vahteristo
 
-**ML / Computer-Vision Engineer (MSc)** — I am passionate about research and entrepreneurship, and I enjoy problem solving, creative work, and organizing. 
-
 [![Website](https://img.shields.io/badge/Website-ilmarivahteristo.com-39d98a?logo=gnometerminal&logoColor=39d98a&labelColor=0d1117)](https://ilmarivahteristo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilmari%20Vahteristo-blue?logo=linkedin)](https://www.linkedin.com/in/ilmariv/)
 [![Email](https://img.shields.io/badge/Email-i.vahteristo%40gmail.com-red?logo=gmail&logoColor=white)](mailto:i.vahteristo@gmail.com)
 
-I currently work at a startup building near-real-time measurement systems for heavy industry — computer vision and ML on edge devices, using cameras, LiDAR, and lasers. I have an MSc in Computer Vision & Pattern Recognition from LUT University and am doing a second MSc in Robotics & Automation at Aalto. I like hard problems: research, systems that ship, and the occasional competition.
+I am an ML / Computer-Vision Engineer (MSc), but I can wear many hats and have an entrepreneurial mind.
 
 **Highlights**
+- Work at Virelabs: real-time measurement systems for heavy industry. Computer vision and ML on edge devices, using cameras, LiDAR, and lasers.
 - MSc thesis: a LiDAR-only method to reconstruct moving vehicles in 3D at ~37 mm accuracy ([thesis](https://lutpub.lut.fi/handle/10024/170362)).
 - First-author IEEE paper on limited-angle CT reconstruction, presented in the SCIA conference ([arXiv](https://arxiv.org/abs/2502.12293)).
 - BSc thesis: a reinforcement-learning agent that outranks the best human players at the card game Moska ([thesis](https://urn.fi/URN:NBN:fi-fe2023051644576)).
 - Completed Google's Foobar challenge (nine algorithmic problems), which led to a Google interview ([solutions](https://github.com/ilmari99/google-foobar)).
 - Won the ElevenLabs voice-AI challenge at Junction 2025 with [Junction Simulator](https://youtu.be/WhviYsdgZNE); top 5% at Junction 2024 with [EquipSnap](https://www.youtube.com/watch?v=jerwB3SQ5Ok).
-- 7th of 800 in Kaggle's "LLM 20 Questions" with an alphabet based model and a CoT LLM agent.
-- BLASE: a global optimizer for spherical codes that beat 1,550 known records (20.7%) on spherical-codes.org ([code](https://github.com/ilmari99/tammes_BLASE)).
+- 7th of 800 in Kaggle's "LLM 20 Questions" with an alphabet based model and a CoT LLM agent (before CoT was cool)
 
 ---
 
@@ -23,7 +21,7 @@ I currently work at a startup building near-real-time measurement systems for he
 
 | Project | What it is | Links |
 | :--- | :--- | :--- |
-| **PolyGate** | A Model Context Protocol server that lets any LLM agent research and trade Polymarket prediction markets. | [GitHub](https://github.com/ilmari99/polygate) |
+| **PolyGate** | A Model Context Protocol server that lets any LLM agent research and trade Polymarket prediction markets. | [GitHub](https://github.com/ilmari99/polygate-connector) |
 | **Data-Efficient Limited-Angle CT** | First-author IEEE paper: CT reconstruction in ultra low-data settings using deep priors and regularization. | [Paper](https://arxiv.org/abs/2502.12293) · [Code](https://github.com/ilmari99/data-efficient-lact) |
 | **BLASE** | A population-based global optimizer for the Tammes problem (spherical codes) that improved 1,550 records (20.7%) over spherical-codes.org from random starts. | [GitHub](https://github.com/ilmari99/tammes_BLASE) |
 | **LiDAR 3D reconstruction** (MSc thesis) | A LiDAR-only method that corrects motion distortion to reconstruct moving vehicles in 3D — ~37 mm accuracy on real trucks, with no IMU or wheel encoders. Done with a deep-tech startup. | [MSc thesis](https://lutpub.lut.fi/handle/10024/170362) |
