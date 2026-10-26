@@ -9,7 +9,7 @@ I am an ML / Computer-Vision Engineer (MSc), but I can wear many hats and have a
 **Highlights**
 - Work at Virelabs: real-time measurement systems for heavy industry. Computer vision and ML on edge devices, using cameras, LiDAR, and lasers.
 - MSc thesis: a LiDAR-only method to reconstruct moving vehicles in 3D at ~37 mm accuracy ([thesis](https://lutpub.lut.fi/handle/10024/170362)).
-- First-author IEEE paper on limited-angle CT reconstruction, presented in the SCIA conference ([arXiv](https://arxiv.org/abs/2502.12293)).
+- First-author paper on limited-angle CT reconstruction, presented in the SCIA conference ([arXiv](https://arxiv.org/abs/2502.12293)).
 - BSc thesis: a reinforcement-learning agent that outranks the best human players at the card game Moska ([thesis](https://urn.fi/URN:NBN:fi-fe2023051644576)).
 - Completed Google's Foobar challenge (nine algorithmic problems), which led to a Google interview ([solutions](https://github.com/ilmari99/google-foobar)).
 - Won the ElevenLabs voice-AI challenge at Junction 2025 with [Junction Simulator](https://youtu.be/WhviYsdgZNE); top 5% at Junction 2024 with [EquipSnap](https://www.youtube.com/watch?v=jerwB3SQ5Ok).
