@@ -1,45 +1,34 @@
-﻿# Ilmari Vahteristo
+# Ilmari Vahteristo
 
-[![Website](https://img.shields.io/badge/Website-ilmarivahteristo.com-39d98a?logo=gnometerminal&logoColor=39d98a&labelColor=0d1117)](https://ilmarivahteristo.com)
+[![Website](https://img.shields.io/badge/Website-ilmarivahteristo.com-39d98a?logo=gnometerminal&logoColor=39d98a&labelColor=0d1117)](https://ilmarivahteristo.com/?utm_source=github)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilmari%20Vahteristo-blue?logo=linkedin)](https://www.linkedin.com/in/ilmariv/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-papers-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=cN6lZe8AAAAJ)
 [![Email](https://img.shields.io/badge/Email-i.vahteristo%40gmail.com-red?logo=gmail&logoColor=white)](mailto:i.vahteristo@gmail.com)
 
-I am an ML / Computer-Vision Engineer (MSc), but I can wear many hats and have an entrepreneurial mind.
+Computer vision and ML engineer in Helsinki. I build perception systems that run in the real world: cameras, LiDAR, radar and lasers on edge hardware, in factories and heavy industry.
 
-**Highlights**
-- Work at Virelabs: real-time measurement systems for heavy industry. Computer vision and ML on edge devices, using cameras, LiDAR, and lasers.
-- MSc thesis: a LiDAR-only method to reconstruct moving vehicles in 3D at ~37 mm accuracy ([thesis](https://lutpub.lut.fi/handle/10024/170362)).
-- First-author paper on limited-angle CT reconstruction, presented in the SCIA conference ([arXiv](https://arxiv.org/abs/2502.12293)).
-- BSc thesis: a reinforcement-learning agent that outranks the best human players at the card game Moska ([thesis](https://urn.fi/URN:NBN:fi-fe2023051644576)).
-- Completed Google's Foobar challenge (nine algorithmic problems), which led to a Google interview ([solutions](https://github.com/ilmari99/google-foobar)).
-- Won the ElevenLabs voice-AI challenge at Junction 2025 with [Junction Simulator](https://youtu.be/WhviYsdgZNE); top 5% at Junction 2024 with [EquipSnap](https://www.youtube.com/watch?v=jerwB3SQ5Ok).
-- 7th of 800 in Kaggle's "LLM 20 Questions" with an alphabet based model and a CoT LLM agent (before CoT was cool)
+### Highlights
 
----
+- **Virelabs (2025–26):** at a seven-person startup, built four perception systems that are now deployed. Multi-camera tracking through occlusions (5 cm at 6 m), 3D reconstruction of moving vehicles (line cameras, LiDAR and radar, 4 cm), veneer quality control by laser triangulation (0.5 mm from over 1 m), and industrial OCR (99.9 %).
+- **Spherical codes:** sole-author paper. My solver holds over 3,000 of the current records on [spherical-codes.org](https://spherical-codes.org/). [paper](https://arxiv.org/abs/2610.19988) · [code](https://github.com/ilmari99/Spherical-code-solver)
+- **Limited-angle CT:** first-author paper at SCIA 2025 (Springer LNCS): CT reconstruction from only 12 training samples, with deep priors and regularization. [paper](https://arxiv.org/abs/2502.12293) · [code](https://github.com/ilmari99/data-efficient-lact)
+- **MSc thesis:** LiDAR-only motion estimation and 3D reconstruction of moving trucks, with no IMU or wheel encoders. 37.1 mm inlier RMSE on six real recordings. [thesis](https://urn.fi/URN:NBN:fi-fe2025082784786)
+- **Moska:** a self-play agent for a Finnish card game, now also a benchmark of how LLMs play a game they have never seen. [moska.eu](https://moska.eu/) · [BSc thesis](https://urn.fi/URN:NBN:fi-fe2023051644576)
+- **Competitions:** won the ElevenLabs challenge at Junction 2025 ([demo](https://youtu.be/WhviYsdgZNE)); top 5 % at Junction 2024 ([demo](https://www.youtube.com/watch?v=jerwB3SQ5Ok)); gold medal in Kaggle's LLM 20 Questions, 7th of 800.
 
-## Selected projects
+### Code worth a look
 
-| Project | What it is | Links |
-| :--- | :--- | :--- |
-| **PolyGate** | A Model Context Protocol server that lets any LLM agent research and trade Polymarket prediction markets. | [GitHub](https://github.com/ilmari99/polygate-connector) |
-| **Data-Efficient Limited-Angle CT** | First-author IEEE paper: CT reconstruction in ultra low-data settings using deep priors and regularization. | [Paper](https://arxiv.org/abs/2502.12293) · [Code](https://github.com/ilmari99/data-efficient-lact) |
-| **Spherical code solver** | A solver for the spherical code problem that improved x,xxx records (xx,x%) over public records in spherical-codes.org. | [GitHub](https://github.com/ilmari99/Spherical-code-solver) |
-| **LiDAR 3D reconstruction** (MSc thesis) | A LiDAR-only method that corrects motion distortion to reconstruct moving vehicles in 3D — ~37 mm accuracy on real trucks, with no IMU or wheel encoders. Done with a deep-tech startup. | [MSc thesis](https://lutpub.lut.fi/handle/10024/170362) |
-| **Moska** | RL engine and self-play agent for the card game Moska. The agent ranked above the best human players on a public leaderboard. | [BSc thesis](https://urn.fi/URN:NBN:fi-fe2023051644576)|
-| **Teekkariäly** | Finetuned a Finnish GPT-3 on 20k group-chat messages and deployed it as a Telegram bot. | [GitHub](https://github.com/ilmari99/teekkarialy) |
-| **Blokus AI** | A pure neural-network self-play agent for Blokus — no MCTS, just the network. | [Paper draft](https://github.com/ilmari99/Blokus-Paper) |
-| **Stock direction prediction** | Transformer classifier for hourly price movement across OMX Helsinki stocks. | [GitHub](https://github.com/ilmari99/stonk-prediction) |
-| **Ringed-seal identification** | A Siamese network that re-identifies individual ringed seals from photos. | [GitHub](https://github.com/ilmari99/ringed-seal-identification) |
+| Repository | What it is |
+| :--- | :--- |
+| [Spherical-code-solver](https://github.com/ilmari99/Spherical-code-solver) | The solver behind the spherical-codes paper. |
+| [data-efficient-lact](https://github.com/ilmari99/data-efficient-lact) | Code for the limited-angle CT paper. |
+| [polygate](https://github.com/ilmari99/polygate) | An MCP server that lets LLM agents research and trade Polymarket prediction markets. |
+| [DigitRecognition3D](https://github.com/ilmari99/DigitRecognition3D) | 3D digit recognition: the best score in 2024 in a course competition running since 2016. |
+| [teekkarialy](https://github.com/ilmari99/teekkarialy) | A Finnish GPT-3 fine-tuned on 20k group-chat messages, deployed as a Telegram bot. |
 
----
+More: [stock-direction transformer](https://github.com/ilmari99/stonk-prediction) · [Google Foobar solutions](https://github.com/ilmari99/google-foobar) · coursework in [Gaussian processes](https://github.com/ilmari99/GaussianProcessRegression), [LWE cryptography](https://github.com/ilmari99/learning-with-errors), [Math for ML](https://github.com/ilmari99/M4ML-recommendation-algorithm) and [embedded C](https://github.com/ilmari99/embedded-systems-project).
 
-## Also on my GitHub
-
-Coursework and competitions: [3D digit recognition](https://github.com/ilmari99/DigitRecognition3D) (best score in 2024, in a competition running since 2016), a [coin counter](https://github.com/ilmari99/CoinCounter), a [froth-flotation soft sensor](https://github.com/ilmari99/MiningProcessData), Math-for-ML projects ([recommendation](https://github.com/ilmari99/M4ML-recommendation-algorithm), [dimensionality reduction](https://github.com/ilmari99/M4ML-dim-reduction), [SVM](https://github.com/ilmari99/M4ML-SVM)), [Gaussian-process regression](https://github.com/ilmari99/GaussianProcessRegression), [LWE cryptography](https://github.com/ilmari99/learning-with-errors), and [embedded C](https://github.com/ilmari99/embedded-systems-project).
-
----
-
-**Stack:** Python · PyTorch · TensorFlow · scikit-learn · OpenCV · NumPy / pandas · C · Linux · Git
+**Stack:** Python · PyTorch · TensorFlow · ONNX · OpenCV · scikit-learn · C · Linux · Docker · Git
 
 Code line stats below are updated with a [script](https://github.com/ilmari99/update-code-count-table).
 ### Lines of code in my GitHub repositories (updated on 05 July 2026)
